@@ -1,0 +1,580 @@
+@media only screen and (max-width: 1730px) {
+.main-header { padding: 28px 30px 0; }
+.navbar .navbar-brand { margin-right: 50px; }
+.home-banner-section { padding: 103px 30px 110px; }
+.nft-section .circle { top: -85px; right: -35px; }
+}
+
+@media screen and (max-width: 1340px) {
+.home-banner-section .eth-box { right: -34px; }
+.h1, h1 { font-size: 55px; line-height: 65px; }
+.partner-section .heading .circle { bottom: -15px; right: -35px; }
+.create-section .heading .circle { bottom: -15px; left: -35px; }
+.product-section .filter-list .circle { bottom: -25px; right: -15px; }
+.sellers-section .heading .circle { bottom: -15px; left: -35px; }
+.testimonials-section .heading .circle-2 { bottom: -85px; right: -40px; }
+.testimonials-section .heading .circle { bottom: -15px; left: -30px; }
+.footer-section .join-us .circle { top: -95px; right: -40px; }
+.footer-section .top-btn { bottom: 85px; right: 40px; }
+.sub-banner-section { padding: 100px 0 120px 0; }
+.auction-page-auction-section .circle { left: -15px; top: -85px; }
+.wallet-section .circle { left: -15px; top: -85px; }
+.information-section .heading .circle { bottom: 30px; left: -25px; }
+.contact-section .heading .circle { bottom: -15px; right: -35px; }
+}
+
+@media screen and (max-width: 1199px) {
+.h1, h1 { font-size: 45px; line-height: 55px; }
+.h2, h2 { font-size: 40px; line-height: 45px; }
+.h3, h3 { font-size: 20px; line-height: 28px; }
+.h4, h4 { font-size: 20px; line-height: 28px; }
+p { font-size: 16px; line-height: 24px; }
+.navbar .navbar-icon a { padding-right: 0px; }
+.navbar .navbar-brand { margin-right: 40px; }
+.navbar li { padding: 0 10px; }
+.navbar li a { font-size: 16px; line-height: 16px; }
+.login-outer-div .icon { padding: 0px 10px; }
+.login-outer-div .icon figure img { width: 25px; }
+.login-outer-div .sign-up { padding: 14px 40px 17px 40px; font-size: 16px; line-height: 16px; margin-left: 20px; }
+.banner-section-outer { background-position: left; }
+.main-header { padding: 28px 15px 0; }
+.home-banner-section { padding: 100px 15px 100px; }
+.home-banner-text p { font-size: 20px; line-height: 30px; padding-right: 0; }
+.home-banner-section .home-banner-text-setting { margin-bottom: 100px; }
+.home-banner-section .counter-box { width: 100%; }
+.home-banner-section .counter-box span { font-size: 30px; line-height: 30px; }
+.home-banner-section .counter-box-inner { padding: 0 29px; }
+.home-banner-section .counter-box .text { font-size: 16px; line-height: 16px; }
+.home-banner-section .eth-box { right: -28px; width: 450px; }
+.partner-section { padding: 100px 0; }
+.partner-section .heading { padding-top: 70px; }
+.partner-section .heading .circle { bottom: -15px; right: -15px; }
+.partner-section .auction-middle .left { width: 50%; }
+.partner-section .auction-middle .right { width: 50%; }
+.partner-section .auction-middle .name { font-size: 17px; }
+.partner-section .auction-bottom a { padding: 12px 16px; }
+.partner-section .owl-carousel .owl-nav button.owl-next, .partner-section .owl-carousel .owl-nav button.owl-prev { width: 50px; height: 50px; line-height: 50px; }
+.partner-section .owl-carousel .owl-nav button.owl-next span, .partner-section .owl-carousel .owl-nav button.owl-prev span { font-size: 22px; line-height: 48px; }
+.create-section { padding: 100px 0; }
+.create-section .heading { margin-bottom: 50px; }
+.create-section .create-box p { padding-right: 10px; }
+.explore-section { padding: 100px 0 130px 0; }
+.explore-section .heading { padding-left: 0; }
+.explore-section .explore-img-1 { width: 260px; }
+.explore-section .explore-img-3 { width: 240px; }
+.explore-section .explore-img-2 { right: -70px; }
+.explore-section .circle-1 { top: 210px; }
+.product-section { padding: 100px 0 70px 0; }
+.product-section .product-box-top .name { font-size: 12px; }
+.product-section .product-box-top .rate span { font-size: 12px; }
+.product-section .product-box-top .rate i { font-size: 12px; }
+.sellers-section { padding: 100px 0; }
+.sellers-section .sellers-box-inner { padding: 60px 20px 22px 20px; }
+.sellers-section .sellers-box-inner figure { top: -45px; left: 62px; width: 90px; }
+.sellers-section .owl-carousel .owl-nav button.owl-next, .sellers-section .owl-carousel .owl-nav button.owl-prev { width: 50px; height: 50px; line-height: 50px; }
+.sellers-section .owl-carousel .owl-nav button.owl-next span, .sellers-section .owl-carousel .owl-nav button.owl-prev span { font-size: 22px; line-height: 48px; }
+.art-section { padding: 100px 0; }
+.art-section .heading p { padding: 0 13%; }
+.testimonials-section { padding: 100px 0 270px 0; }
+.testimonials-section .heading .circle-2 { bottom: -80px; right: -30px; width: 70px; }
+.testimonials-section .owl-carousel .owl-nav button.owl-next, .testimonials-section .owl-carousel .owl-nav button.owl-prev { width: 50px; height: 50px; line-height: 50px; }
+.testimonials-section .owl-carousel .owl-nav button.owl-next span, .testimonials-section .owl-carousel .owl-nav button.owl-prev span { font-size: 22px; line-height: 48px; }
+.footer-section .join-us .circle { top: -95px; right: -25px; }
+.footer-section .footer-support-content { padding-left: 30px; }
+.footer-section .join-us { margin-bottom: 70px; }
+.footer-section .footer-links-content { padding-left: 0px; }
+.footer-section .top-btn { width: 70px; height: 70px; }
+.sub-banner-section { padding: 80px 0 100px 0; }
+.video-section { padding: 100px 0px; }
+.video-section .video-content iframe { width: 770px; height: 434px; }
+.video-section .circle { top: -27px; right: -100px; }
+.video-section .video-circle { width: 140px; }
+.team-section { padding: 100px 0; }
+.auction-page-auction-section .auction-middle .name { font-size: 15px; }
+.auction-page-auction-section .simple-pagination li a, .auction-page-auction-section .simple-pagination li span { font-size: 18px; width: 50px; height: 50px; line-height: 50px; }
+.auction-page-auction-section .simple-pagination ul { padding-top: 20px; }
+.wallet-section .wallet-box { padding: 25px 20px; }
+.wallet-section .wallet-box .img-outer { width: 60px; height: 60px; line-height: 60px; margin-bottom: 15px; }
+.wallet-section .wallet-box .img-outer figure img { width: 30px; }
+.wallet-section .wallet-box h5 { font-size: 18px; line-height: 24px; }
+.wallet-section .wallet-box p { font-size: 14px; line-height: 22px; }
+.wallet-section .wallet-box i { font-size: 18px; }
+.wallet-section { padding: 100px 0 70px 0; }
+.wallet-partner-section { padding-bottom: 240px; }
+.wallet-partner-section .partner-box { height: 145px; line-height: 135px; }
+.wallet-partner-section .partner-box figure img { width: 85px; }
+.information-section .heading .circle { bottom: 25px; left: -10px; }
+.contact-section .heading .circle { right: -25px; }
+.contact-section .contact-box .form-group { width: 31%; margin: 0 10px 30px; }
+.nft-section { padding: 100px 0; }
+.nft-section .circle { right: -25px; }
+.nft-section .create-nft-box .form-group { width: 46.5%; }
+.blog-posts { padding: 100px 0 252px 0; }
+.product-detail { padding: 100px 0; }
+.product-detail .product-tab ul li { width: 31.2%; }
+.product-detail .auction-top .bidder { font-size: 16px; line-height: 24px; }
+.product-detail .auction-middle .name { font-size: 16px; }
+.product-detail .auction-middle .ending { font-size: 16px; line-height: 24px; }
+.product-detail .auction-middle .left { width: 60%; }
+.product-detail .auction-middle .right { width: 40%; }
+.product-detail .auction-top figure { margin-right: 10px; }
+.product-detail .heading ul li { font-size: 16px; line-height: 24px; }
+.product-detail .heading { margin-bottom: 30px; }
+.checkout-section { padding-bottom: 270px; }
+.checkout-section .preview-box .btn-outer .btn { font-size: 16px; line-height: 16px; padding: 18px 18px; }
+}
+
+  
+@media screen and (max-width: 991px) {
+.h1, h1 { font-size: 35px; line-height: 45px; }
+.h2, h2 { font-size: 32px; line-height: 40px; }
+.h4, h4 { font-size: 18px; line-height: 24px; }
+.navbar .navbar-logo img { width: 140px; }
+.navbar-toggler span.navbar-toggler-icon { transition: all 0.15s; }
+.navbar-toggler span.navbar-toggler-icon:first-child { margin-top: 0; }
+.navbar-toggler.collapsed span:nth-child(1) { transform: rotate(0deg); }
+.navbar-toggler.collapsed span:nth-child(2) { opacity: 1; }
+.navbar-toggler.collapsed span:nth-child(3) { transform: rotate(0deg); }
+.navbar-toggler span:nth-child(1) { transform: rotate(45deg); transform-origin: 0% 80%; }
+.navbar-toggler span:nth-child(2) { opacity: 0; }
+.navbar-toggler span:nth-child(3) { transform: rotate(-45deg); transform-origin: 15% 100%; }
+.navbar-light .navbar-toggler-icon { background: var(--e-global-color-white); height: 2px; margin: 7px 0 0 0; width: 100%; float: right; }
+.navbar-toggler { margin-left: 20px; border: none !important; padding: 0; width: 30px; height: 22px; }
+.navbar-toggler:focus { outline: none; }
+.navbar-collapse { background: var(--e-global-color-white); position: absolute; right: 0px; width: 30%; top: 75px; z-index: 16; padding: 0;}
+.navbar .glib-dropdown li { display: block; }
+.navbar .glib-dropdown li a:before { display: none; }
+.navbar .glib-dropdown li a:after { display: none; }
+.banner-section { padding: 110px 0px 500px 0px; background-image: url(../images/banner-tablet.jpg);}
+.navbar li { padding: 0px; }
+.navbar li a { font-size: 16px; line-height: 18px; padding: 12px 30px!important; color: var(--e-global-color-dark-blue) !important;}
+.navbar .navbar-icon a { color: var(--global--color-white); font-size: 22px; padding: 7px 30px 30px 30px; display: block; line-height: 22px; }
+.navbar .glib-dropdown { padding: 0; background: var(--global--color-very-dark-gray); border: none; box-shadow: none; width: auto;}
+.navbar .glib-dropdown .glib-menu { font-size: 15px; line-height: 20px; padding: 6px 40px !important; font-weight: 400; }
+.navbar .glib-dropdown ul { padding: 0 !important; }
+.navbar-nav li.active > a { color: var(--e-global-color-accent) !important; }
+.navbar-nav li.active > a:before { display: none; }
+.navbar li a:hover { color: var(--e-global-color-accent) !important; }
+.navbar li a:hover::before { display: none; }
+.navbar .glib-dropdown .glib-menu:hover { color: var(--e-global-color-accent) !important; }
+.navbar .navbar-icon a:hover { color: var(--e-global-color-dark-blue); }
+.login-outer-div  .sign-up { font-size: 16px; background: transparent; font-weight: 400; padding: 12px 30px 14px 30px; margin-left: 0; color: var(--e-global-color-dark-blue) !important; width: 100%; }
+.login-outer-div .sign-up:hover { color: var(--e-global-color-accent) !important; transform: translateY(0) !important; }
+.login-outer-div.mobile { display: block; }
+.login-outer-div.desktop .icon { display: none; }
+.login-outer-div .icon span { top: -6px; left: 3px; line-height: 14px; width: 20px; height: 20px; font-size: 8px; }
+.main-header { padding: 20px 20px 0; }
+.home-banner-section { padding: 70px 20px 70px; }
+.home-banner-section .banner-img img { margin-left: 0; }
+.home-banner-section .eth-box { right: -30px; width: 100%; background-position: right; bottom: -145px; padding: 30px 15px 30px 15px; }
+.home-banner-section .eth-box-left h3 { font-size: 20px; line-height: 24px; margin-bottom: 10px; }
+.home-banner-section .eth-box-left figure { margin-right: 5px; margin-bottom: 15px; }
+.home-banner-section .eth-box-right .counter-outer { margin-bottom: 30px; }
+.home-banner-section .eth-box-right a { font-size: 16px; line-height: 16px; padding: 14px 28px; }
+.home-banner-section .eth-box-left { width: 54%; }
+.home-banner-section .eth-box-left .price { font-size: 18px; line-height: 18px; }
+.home-banner-text p { font-size: 18px; line-height: 30px; }
+.home-banner-button .free { font-size: 16px; line-height: 16px; padding: 18px 38px; }
+.home-banner-button .play-icon i { font-size: 38px; line-height: 38px; margin-right: 14px; top: 8px; }
+.home-banner-button .play-icon { font-size: 16px; line-height: 16px; }
+.home-banner-button .free-outer { margin-right: 10px; }
+.home-banner-section .counter-box { padding: 20px 0px 24px 0px; }
+.home-banner-section .counter-box-inner { padding: 0 18px; }
+.home-banner-section .counter-box span { font-size: 24px; line-height: 24px; }
+.home-banner-section .counter-box .text { font-size: 14px; line-height: 14px; }
+.home-banner-section .home-banner-text-setting { margin-bottom: 70px; }
+.home-banner-text { padding-top: 30px; }
+.partner-section { padding: 70px 0; }
+.partner-section .heading { padding-top: 40px; margin-bottom: 30px; }
+.partner-section .heading .circle { bottom: 0px; right: -15px; width: 60px; }
+.partner-section .owl-carousel .owl-nav { margin-top: 30px; }
+.create-section { padding: 70px 0; }
+.create-section .heading .circle { bottom: -10px; left: -15px; width: 60px; }
+.create-section .heading { margin-bottom: 40px; }
+.create-section .create-box figure { margin-bottom: 25px; }
+.create-section .create-btn a { font-size: 16px; line-height: 16px; padding: 18px 40px; }
+.create-section .create-box p { padding-right: 0px; }
+.explore-section { padding: 70px 0; }
+.explore-section .explore-img-1 { width: 185px; }
+.explore-section .explore-img-3 { width: 180px; }
+.explore-section .explore-img-2 { right: -50px; width: 135px; top: 25px; }
+.explore-section .circle-1 { top: 150px; width: 65px; left: -25px; }
+.explore-section .circle { top: 20px; left: 220px; width: 60px; }
+.explore-section .heading a { font-size: 16px; line-height: 16px; padding: 18px 40px; }
+.explore-section .heading { padding-top: 0; }
+.product-section { padding: 70px 0 40px 0; }
+.product-section .filter-list .btn { font-size: 14px; line-height: 14px; padding: 18px 25px; margin: 0 3px; }
+.product-section .heading { margin-bottom: 30px; }
+.product-section .filter-list { margin-bottom: 40px; }
+.product-section .product-box figure img { width: 100%; }
+.product-section .product-box { padding: 30px; }
+.product-section .product-box-top .rate i { margin-right: 5px; }
+.product-section .filter-list .circle { bottom: 70px; width: 60px; }
+.sellers-section { padding: 70px 0; }
+.sellers-section .heading .circle { bottom: -10px; left: -15px; width: 60px; }
+.sellers-section .owl-carousel .owl-nav { margin-top: 30px; }
+.sellers-section .sellers-box-inner figure { top: -30px; left: 48px; width: 60px; }
+.sellers-section .sellers-box-inner h6 { font-size: 16px; }
+.sellers-section .sellers-box-inner { padding: 45px 20px 20px 20px; }
+.sellers-section .sellers-box-inner span { font-size: 14px; line-height: 14px; }
+.art-section { padding: 70px 0; }
+.art-section .heading .circle { top: 35px; right: 0px; width: 60px; }
+.art-section .heading p { padding: 0 2%; margin-bottom: 30px; }
+.art-section .heading h2 { margin-bottom: 15px; }
+.art-section .heading a { font-size: 16px; line-height: 16px; padding: 18px 40px; }
+.testimonials-section { padding: 70px 0 200px 0; }
+.testimonials-section .heading .circle { bottom: -10px; left: -15px; width: 60px; }
+.testimonials-section .testimonial-box { padding: 30px; }
+.testimonials-section .owl-carousel .owl-nav { margin-top: 30px; }
+.footer-section .join-us .circle { top: -70px; right: -25px; width: 60px; }
+.footer-section .join-us { padding: 50px; margin-top: -130px; }
+.footer-section .join-us .form-control { font-size: 16px; }
+.footer-section .join-us .form-group { width: 100%; }
+.footer-section .join-us .subscribe-btn { font-size: 16px; line-height: 16px; font-weight: 500; padding: 18px 30px; }
+.footer-section .join-us .form-control { height: 55px; line-height: 55px; width: 67%; }
+.footer-section { padding-bottom: 70px; }
+.footer-section .footer-support-content { padding-left: 0; }
+.footer-section .footer-logo-content p { font-size: 14px; line-height: 24px; }
+.footer-section ul li a { font-size: 14px; line-height: 24px; margin-left: 10px; }
+.footer-section .footer-info-content ul li i { font-size: 14px; line-height: 14px; }
+.footer-bar { padding: 20px 0; }
+.sub-banner-section { padding: 40px 0 70px 0; }
+.sub-banner-section .breadcrum { padding: 11px 25px; }
+.sub-banner-section .breadcrum span { font-size: 14px; line-height: 24px; }
+.video-section { padding: 70px 0px; }
+.video-section .video-content iframe { width: 690px; height: 388px; }
+.video-section .circle { top: -27px; right: -35px; width: 65px; }
+.video-section .video-circle { width: 100px; bottom: -35px; left: -35px; }
+.team-section { padding: 70px 0; }
+.team-section .team-box figure { margin-bottom: 20px; }
+.team-section .team-box figure img { width: 160px; }
+.auction-page-auction-section .circle { left: -15px; top: -65px; width: 65px; }
+.auction-page-auction-section .simple-pagination ul { padding-top: 0px; }
+.wallet-section { padding: 70px 0 40px 0; }
+.wallet-section .circle { left: -15px; top: -65px; width: 65px; }
+.wallet-partner-section .partner-box { height: 120px; line-height: 110px; }
+.wallet-partner-section .partner-box figure img { width: 75px; }
+.wallet-partner-section { padding-bottom: 170px; }
+.information-section .information-box { padding: 30px 35px; }
+.information-section .information-box figure img { width: 60px; }
+.information-section .information-box h4 { margin-bottom: 8px; }
+.information-section .heading .circle { width: 65px; }
+.contact-section .heading .circle { right: -25px; } 
+.contact-section .contact-box { padding: 30px 20px; }
+.contact-section .contact-box .form-group { width: 31.7%; margin: 0 5px 30px; }
+.contact-section .contact-box .form-control { font-size: 14px; height: 50px; line-height: 50px; padding: 0 15px; }
+.contact-section .contact-box textarea { height: 130px !important; }
+.contact-section .contact-box .btn { font-size: 16px; line-height: 16px; font-weight: 500; padding: 18px 40px; margin-top: 0px; }
+.nft-section { padding: 70px 0; }
+.nft-section .preview-box-middle .left .name { font-size: 16px; }
+.nft-section .preview-box-middle .right .bid { font-size: 13px; }
+.nft-section .preview-box-middle .right .price { font-size: 16px; }
+.nft-section .preview-box a { font-size: 16px; line-height: 16px; padding: 18px 23px; }
+.nft-section .preview-box-middle { padding-bottom: 25px; }
+.nft-section .create-nft-box .form-group .form-control { font-size: 14px; font-weight: 500; height: 50px; line-height: 50px; padding: 0 15px; }
+.nft-section .create-nft-box .form-group select { background-position: 91% 21px !important; }
+.nft-section .create-nft-box .form-group { width: 46.6%; margin: 0 6px 15px; }
+.nft-section .create-nft-box .form-group textarea { height: 110px !important; }
+.nft-section .create-nft-box .form-check { width: 100%; padding-top: 10px; padding-bottom: 20px; }
+.nft-section .create-nft-box .btn { font-size: 16px; line-height: 16px; padding: 18px 40px; width: 97%; margin: 0 6px; }
+.nft-section .create-nft-box .btn-outer { padding-top: 0px; }
+.nft-section .create-nft-box .form-check input { width: 20px; height: 20px; line-height: 20px; }
+.nft-section .create-nft-box .form-check label { line-height: 18px; }
+.blog-posts { padding: 70px 0 180px 0; }
+.login-form .login-form-title { margin-bottom: 30px; }
+.login-form .login-card .btn-primary { font-size: 16px; line-height: 16px; }
+.login-form .login-card .forgot-password { font-size: 16px; }
+.login-form .login-form-box .join-now-outer a { font-size: 16px; }
+.product-detail .product-tab ul li { width: 30.5%; }
+.product-detail .auction-box { padding: 15px; }
+.product-detail .auction-middle .left { width: 55%; }
+.product-detail .auction-middle .right { width: 45%; }
+.product-detail .auction-middle .time { font-size: 14px; }
+.product-detail .auction-middle { margin-bottom: 10px; }
+.product-detail .heading { margin-bottom: 20px; }
+.product-detail .heading h5 { margin-bottom: 10px; }
+.product-detail .heading h2 { margin-bottom: 15px; }
+.product-detail .product-tab .tab-pane { padding: 15px; }
+.checkout-section { padding-bottom: 200px; }
+.checkout-section .preview-box .product-outer .total { padding-top: 5px; font-size: 14px; }
+.checkout-section .preview-box .total-price-outer .total { padding-top: 5px; font-size: 14px; }
+#search input[type="search"] { font-size: 36px; }
+.checkout-section .create-nft-box .form-group select { background-position: 94.3% 21px !important; }
+.cart-section .product-image { width: 20%; }
+.cart-section .product-details { width: 30%; }
+.cart-section .product-price { width: 16%; }
+.cart-section .product-quantity { width: 13%; }
+} 
+
+
+
+@media screen and (max-width: 767px) {
+.h1, h1 { font-size: 30px; line-height: 36px; }
+.h2, h2 { font-size: 28px; line-height: 36px; }
+.h5, h5 { font-size: 18px; line-height: 24px; }
+.h6, h6 { font-size: 16px; }
+.text-size-16 { font-size: 14px; line-height: 22px; }
+.navbar-collapse { width: 50%; }
+.home-banner-section { padding-top: 50px; padding-bottom: 160px; }
+.home-banner-text { padding-top: 0; }
+.home-banner-text h1 { padding: 0 30px; }
+.home-banner-text p { font-size: 16px; line-height: 24px;  margin-bottom: 20px; padding: 0 15px; }
+.home-banner-section .home-banner-text-setting { margin-bottom: 40px; }
+.home-banner-button .free { font-size: 14px; line-height: 14px; padding: 14px 30px; }
+.home-banner-button .play-icon i { font-size: 32px; line-height: 32px; margin-right: 10px; top: 6px; }
+.home-banner-section .eth-box { right: -30px; width: 473px; bottom: -100px; padding: 30px 30px 30px 30px; }
+.home-banner-section .counter-box-inner { padding: 0 46px; }
+.partner-section { padding: 60px 0; }
+.partner-section .heading { padding-top: 30px; }
+.partner-section .heading h6 { margin-bottom: 5px; }
+.partner-section .auction-middle .name { font-size: 16px; line-height: 22px; }
+.partner-section .auction-top figure { margin-right: 10px; }
+.partner-section .auction-top .name { font-size: 14px; }
+.partner-section .auction-middle .ending { font-size: 13px; }
+.partner-section .auction-middle .time { font-size: 14px; }
+.partner-section .auction-bottom a { padding: 12px 14px; font-size: 14px; line-height: 14px; }
+.partner-section .auction-bottom .price { font-size: 18px; line-height: 18px; }
+.partner-section .owl-carousel .owl-nav button.owl-next, .partner-section .owl-carousel .owl-nav button.owl-prev { width: 40px; height: 40px; line-height: 40px; margin: 0 5px; }
+.partner-section .owl-carousel .owl-nav button.owl-next span, .partner-section .owl-carousel .owl-nav button.owl-prev span { font-size: 18px; line-height: 30px; }
+.create-section { padding: 60px 0; }
+.create-section .heading { margin-bottom: 30px; }
+.create-section .create-btn a { font-size: 14px; line-height: 14px; padding: 14px 30px; }
+.create-section .create-btn { padding-top: 30px; }
+.explore-section { padding: 60px 0; }
+.explore-section .explore-img-1 { width: 250px; }
+.explore-section .explore-img-3 { width: 235px; }
+.explore-section .explore-img-2 { right: -80px; width: 170px; }
+.explore-section .circle { top: 10px; left: 290px; }
+.explore-section .circle-1 { top: 225px; width: 50px; left: -20px; }
+.explore-section .heading h2 { margin-bottom: 10px; padding: 0 30px; }
+.explore-section .heading p { margin-bottom: 25px; }
+.explore-section .heading a { font-size: 14px; line-height: 14px; padding: 14px 30px; }
+.product-section { padding: 60px 0 30px 0; }
+.product-section .filter-list .btn { margin: 5px 3px; padding: 14px 25px; }
+.product-section .heading { margin-bottom: 25px; }
+.product-section .filter-list { margin-bottom: 30px; }
+.product-section .filter-list .circle { bottom: 125px; }
+.product-section .product-box { padding: 20px; }
+.product-section .product-box .btn-link { font-size: 14px; line-height: 14px; padding: 12px 20px; }
+.product-section .product-box-middle .price { font-size: 16px; }
+.product-section .product-box-bottom { padding-bottom: 20px; margin-bottom: 20px; }
+.product-section .product-box-bottom .name { font-size: 16px; line-height: 22px; }
+.sellers-section { padding: 60px 0; }
+.sellers-section .heading { margin-bottom: 30px; }
+.sellers-section .owl-carousel .owl-nav button.owl-next, .sellers-section .owl-carousel .owl-nav button.owl-prev { width: 40px; height: 40px; line-height: 40px; margin: 0 5px; }
+.sellers-section .owl-carousel .owl-nav button.owl-next span, .sellers-section .owl-carousel .owl-nav button.owl-prev span { font-size: 18px; line-height: 30px; }
+.sellers-section .sellers-box-inner figure { top: -40px; left: 88px; width: 75px; }
+.sellers-section .sellers-box-inner h6 { font-size: 18px; }
+.art-section { padding: 60px 0; }
+.art-section .heading h2 { margin-bottom: 10px; padding: 0 15%; }
+.art-section .heading p { padding: 0; margin-bottom: 20px; }
+.art-section .heading a { font-size: 14px; line-height: 14px; padding: 14px 30px; margin: 0; }
+.art-section .heading .circle { right: -20px; }
+.testimonials-section { padding: 60px 0 170px 0; }
+.testimonials-section .heading { margin-bottom: 30px; }
+.testimonials-section .heading .circle-2 { bottom: -65px; right: -30px; width: 60px; }
+.testimonials-section .testimonial-box { padding: 30px 25px; }
+.testimonials-section .owl-carousel .owl-nav button.owl-next, .testimonials-section .owl-carousel .owl-nav button.owl-prev { width: 40px; height: 40px; line-height: 40px; margin: 0 5px; }
+.testimonials-section .owl-carousel .owl-nav button.owl-next span, .testimonials-section .owl-carousel .owl-nav button.owl-prev span { font-size: 18px; line-height: 30px; }
+.testimonials-section .testimonial-box p { font-size: 14px; line-height: 22px; }
+.testimonials-section .testimonial-box .user { margin-right: 10px; }
+.testimonials-section .testimonial-box .quote-img { margin-bottom: 15px; }
+.footer-section { padding-bottom: 60px; }
+.footer-section .join-us { padding: 40px; margin-top: -110px; margin-bottom: 60px;}
+.footer-section .join-us .subscribe-btn { font-size: 14px; line-height: 14px; padding: 14px 20px; }
+.footer-section .join-us .form-control { height: 44px; line-height: 44px; width: 65%; margin-right: 5px; font-size: 14px; padding: 0 15px; }
+.footer-section .footer-logo-content .footer-logo img { width: 120px; }
+.footer-section h3 { padding-top: 0; }
+.footer-section .footer-logo-content .footer-logo-content-listing a { font-size: 12px; width: 40px; height: 40px; line-height: 40px; }
+.footer-section .top-btn { width: 60px; height: 60px; }
+.footer-section .top-btn i { font-size: 18px; }
+.footer-bar { padding: 15px 0; }
+.sub-banner-section { padding: 30px 0 60px 0; }
+.sub-banner-section h2 { margin-bottom: 15px; }
+.sub-banner-section .breadcrum { padding: 7px 15px 11px 15px; }
+.sub-banner-section .breadcrum span { font-size: 12px; line-height: 20px; }
+.video-section { padding: 60px 0px; }
+.video-section .video-content iframe { width: 505px; height: 284px; }
+.video-section .circle { right: -30px; }
+.video-section .video-circle { width: 70px; bottom: -30px; left: -30px; }
+.team-section { padding: 60px 0; }
+.team-section .heading { margin-bottom: 30px; }
+.team-section .team-box span { font-size: 14px; line-height: 22px; }
+.team-section .team-box figure img { width: 140px; }
+.auction-page-auction-section .circle { display: none; }
+.auction-page-auction-section .auction-middle .ending { font-size: 12px; }
+.auction-page-auction-section .auction-bottom a { font-size: 12px; line-height: 12px; }
+.auction-page-auction-section .simple-pagination li a, .auction-page-auction-section .simple-pagination li span { font-size: 14px; width: 40px; height: 40px; line-height: 38px; margin: 0 2px; }
+.wallet-section { padding: 60px 0 30px 0; }
+.wallet-section .circle { display: none; }
+.wallet-partner-section { padding-bottom: 140px; }
+.wallet-partner-section .partner-box figure img { width: 60px; }
+.wallet-partner-section .partner-box { height: 100px; line-height: 90px; }
+.information-section .information-box { padding: 25px 15px; }
+.information-section .information-box figure img { width: 50px; }
+.contact-section .heading { margin-bottom: 30px; }
+.contact-section .contact-box .form-group { width: 31.1%; margin: 0 5px 20px; }
+.contact-section .contact-box .form-control { height: 46px; line-height: 46px; }
+.contact-section .contact-box textarea { height: 100px !important; }
+.contact-section .contact-box .btn { font-size: 14px; line-height: 14px; padding: 14px 30px; }
+.contact-section .contact-box .form-group label { font-size: 14px; line-height: 14px; }
+.nft-section { padding: 60px 0; }
+.nft-section .circle { display: none; }
+.nft-section .preview-box .preview-img img { width: 100%; }
+.nft-section .create-nft-box .form-group label { font-size: 14px; line-height: 14px; }
+.nft-section .create-nft-box .form-check label { font-size: 14px; line-height: 18px; margin-left: 10px; }
+.nft-section .create-nft-box .form-group { width: 47.9%; margin: 0 5px 15px; }
+.nft-section .create-nft-box .special { width: 98% !important; }
+.nft-section .preview-box-middle .right { text-align: right; }
+.blog-posts { padding: 60px 0 160px 0; }
+.login-form .login-page-logo img { width: 140px; }
+.login-form .login-form-box { width: 450px; }
+.login-form .login-form-title { margin-bottom: 20px; }
+.login-form .login-card .btn-primary { font-size: 14px; line-height: 14px; padding: 14px 20px; }
+.login-form .login-card .forgot-password { font-size: 14px; }
+.login-form .login-card label { font-size: 14px; }
+.login-form .login-card .input-field { font-size: 14px; padding: 0 15px; height: 46px; line-height: 46px; }
+.login-form .login-card { margin-bottom: 20px; }
+.login-form .login-form-box .join-now-outer a { font-size: 14px; }
+.sign-up-form .login-card .select-option { background-position: 95.5% 20px !important; background-size: 10px; padding: 0 30px 0 15px; }
+.product-detail .heading h2 { padding: 0; }
+.product-detail .heading p { margin-bottom: 15px; }
+.product-detail .auction-middle { margin-bottom: 0; }
+.product-detail .auction-middle .ending { font-size: 16px; }
+.placebid-modal-wrapper .modal-header h3 { font-size: 26px; line-height: 32px; }
+.placebid-modal-wrapper .btn-close svg { height: 18px; line-height: 18px; }
+.checkout-section { padding-bottom: 170px; }
+#search input[type="search"] { font-size: 30px; }
+.checkout-section .create-nft-box .form-group select { background-position: 96.3% 21px !important; }
+.cart-section .product-detail-box { padding: 30px; }
+.cart-section .shopping-cart { margin: 0; padding-top: 20px; border-top: 1px solid #47476d; }
+.cart-section .column-labels { display: none; }
+.cart-section .product-image { text-align: center; float: right; width: auto; }
+.cart-section .product-image img { margin: 0 0 10px 10px; }
+.cart-section .product-details { float: none; margin-bottom: 10px; width: auto; }
+.cart-section .product-price { clear: both; width: 90px; }
+.cart-section .product-quantity { width: 100px; }
+.cart-section .product-quantity input { margin-left: 20px; }
+.cart-section .product-quantity:before { content: 'x'; }
+.cart-section .product-removal { width: auto; }
+.cart-section .product-line-price { float: right; width: 70px; }
+.cart-section .product .product-quantity input { width: 35px; height: 28px; }
+}
+  
+  
+  
+@media screen and (max-width: 575px) {
+.h1, h1 { font-size: 26px; line-height: 32px; }
+.h2, h2 { font-size: 24px; line-height: 30px; }
+.h4, h4 { font-size: 16px; line-height: 24px; }
+p { font-size: 14px; line-height: 22px; }
+.navbar .navbar-logo img { width: 120px; }
+.navbar-collapse { width: 60%; }
+.navbar .navbar-icon a { font-size: 20px; line-height: 20px; }
+.login-outer-div .icon { padding: 0px 5px; }
+.login-outer-div .icon span { left: -2px; }
+.navbar-toggler { margin-left: 10px; }
+.main-header { padding: 15px 0px 0; }
+.home-banner-section { padding-left: 0; padding-right: 0; padding-bottom: 195px; }
+.home-banner-text h1 { padding: 0; }
+.home-banner-text p { padding: 0; }
+.home-banner-button .play-icon { font-size: 14px; line-height: 14px; }
+.home-banner-section .counter-box-inner { padding: 0 17px; }
+.home-banner-section .eth-box { right: 0; width: 330px; bottom: -135px; padding: 30px 15px 30px 15px; }
+.home-banner-section .eth-box-left h3 { font-size: 18px; line-height: 24px; }
+.home-banner-section .eth-box-right a { font-size: 14px; line-height: 14px; padding: 14px 28px; }
+.partner-section .heading .circle { bottom: 0px; right: -10px; width: 45px; }
+.partner-section .auction-box { margin: 0 15px; width: auto; }
+.create-section .heading .circle { bottom: 30px; left: -10px; width: 45px; }
+.create-section .create-box figure { margin-bottom: 15px; }
+.create-section .create-box h4 { margin-bottom: 5px; }
+.create-section .create-btn { padding-top: 24px; }
+.create-section .create-box figure img { width: 55px; }
+.explore-section .explore-img-1 { width: 170px; }
+.explore-section .explore-img-2 { width: 90px; top: 20px; }
+.explore-section .explore-img-3 { width: 140px; top: 85px; }
+.explore-section .circle { left: 200px; width: 45px; }
+.explore-section .circle-1 { top: 145px; width: 45px; left: -15px; }
+.explore-section .heading h2 { padding: 0; }
+.explore-section .heading p { margin-bottom: 20px; }
+.product-section .filter-list .circle { bottom: 125px; right: 5px; width: 45px; }
+.product-section .filter-list .btn {  padding: 12px 20px; font-size: 12px; line-height: 12px; }
+.product-section .heading { margin-bottom: 20px; }
+.product-section .filter-list { margin-bottom: 25px; }
+.sellers-section .heading .circle { bottom: 0px; left: -10px; width: 45px; }
+.sellers-section .sellers-box { margin: 0 15px; width: auto; }
+.sellers-section .sellers-box-inner figure { top: -45px; left: 0; right: 0; width: 90px; margin: 0 auto; }
+.sellers-section .sellers-box-inner { padding: 60px 20px 20px 20px; }
+.art-section .heading h2 { padding: 0; }
+.art-section .heading .circle { right: -5px; width: 45px; top: -15px; }
+.art-section .heading a { padding: 14px 25px; }
+.art-section .heading p { padding: 0px 2%; }
+.testimonials-section { padding: 60px 0 180px 0; }
+.testimonials-section .heading .circle { bottom: 0px; left: -10px; width: 45px; }
+.testimonials-section .heading .circle-2 { bottom: -60px; right: -12px; width: 50px; }
+.testimonials-section .testimonial-box { margin: 0 15px; width: auto; }
+.footer-section .join-us .circle { top: -45px; right: 0px; width: 45px; }
+.footer-section .join-us { padding: 30px; margin-top: -120px; }
+.footer-section .heading { margin-bottom: 20px; }
+.footer-section .join-us .form-control { width: 100%; margin: 0 0 10px 0; }
+.footer-section .join-us .form-group { text-align: center; }
+.footer-section .top-btn {  width: 50px; height: 50px; right: 20px; bottom: 65px; }
+.footer-bar p { font-size: 12px; line-height: 12px; }
+.sub-banner-section { padding: 40px 0 60px 0; }
+.video-section .video-content iframe { width: 100%; height: 190px; }
+.video-section .circle { right: -10px; width: 45px; }
+.video-section .video-circle { width: 50px; bottom: -20px; left: -10px; }
+.team-section .team-box figure { margin-bottom: 15px; }
+.team-section .team-box h6 { font-size: 18px; margin-bottom: 2px; }
+.team-section .team-box span { margin-bottom: 10px; }
+.team-section .team-box ul li a { font-size: 12px; width: 35px; height: 35px; line-height: 35px; margin: 0 2px; }
+.auction-page-auction-section .auction-box { margin: 0 0 30px 0; }
+.auction-page-auction-section .auction-img img { width: 100%; }
+.wallet-partner-section { padding-bottom: 140px; }
+.information-section .information-box { padding: 25px 40px; }
+.information-section .heading .circle { bottom: 20px; left: 5px; width: 45px; }
+.contact-section .heading .circle { top: auto; right: -5px; }
+.contact-section .contact-box .form-group { width: 100%; margin: 0 0px 20px; }
+.contact-section .contact-box textarea { width: 100%; }
+.contact-section .contact-box .btn { padding: 14px 20px; }
+.nft-section .create-nft-box { padding: 30px 20px; }
+.nft-section .create-nft-box .form-group { width: 100%; margin: 0 0 20px 0; }
+.nft-section .create-nft-box .form-group select { background-position: 93.5% 19px !important; }
+.nft-section .create-nft-box .special { width: 100% !important; }
+.nft-section .create-nft-box .form-group .form-control { height: 46px; line-height: 46px; }
+.nft-section .create-nft-box .form-check { padding-top: 0px; padding-bottom: 20px; padding-left: 20px; }
+.nft-section .create-nft-box .form-check input { width: 16px; height: 16px; line-height: 16px; }
+.nft-section .create-nft-box .form-check label { font-size: 14px; line-height: 14px; margin-left: 5px; }
+.nft-section .create-nft-box .btn { font-size: 14px; line-height: 14px; padding: 14px 30px; width: 100%; margin: 0 auto; }
+.nft-section .preview-box-middle { padding-bottom: 20px; margin-bottom: 20px; }
+.nft-section .preview-box-top i { font-size: 18px; line-height: 24px; }
+.nft-section .preview-box a { font-size: 14px; line-height: 14px; padding: 14px 20px; }
+.login-form .login-page-logo img { width: 120px; }
+.login-form .login-page-logo { margin-bottom: 20px; }
+.login-form .login-card { padding: 25px 20px; }
+.login-form .login-form-box { width: 100%; }
+.product-detail .heading p { margin-bottom: 10px; }
+.product-detail .heading ul li { font-size: 14px; line-height: 24px; }
+.product-detail .auction-box { margin: 0; }
+.product-detail .auction-middle { margin-bottom: 10px; }
+.product-detail .auction-top .bidder { font-size: 14px; line-height: 20px; }
+.product-detail .auction-middle .ending { margin-bottom: 8px; }
+.placebid-modal-wrapper .modal-dialog { max-width: 100%; margin: 0 15px; }
+.placebid-modal-wrapper .modal-content { padding: 20px; }
+.placebid-modal-wrapper .modal-header h3 { font-size: 24px; line-height: 30px; }
+.placebid-modal-wrapper .modal-header { margin-bottom: 10px; }
+.placebid-modal-wrapper p { padding: 0 15px; }
+.placebid-modal-wrapper .modal-body .placebid-form-box .bid-content .bid-content-top .bid-content-left input { font-size: 14px; height: 45px; line-height: 45px; }
+.placebid-modal-wrapper .modal-body .placebid-form-box .bid-content .bid-content-top .bid-content-left span { font-size: 14px; }
+.placebid-modal-wrapper .bid-content-mid span { font-size: 14px; line-height: 18px; }
+.placebid-modal-wrapper .bit-continue-button a, .placebid-modal-wrapper .bit-continue-button .cancel { font-size: 14px; line-height: 14px; }
+.checkout-section .preview-box .btn-outer .btn { font-size: 14px; line-height: 14px; padding: 14px 20px; }
+#search input[type="search"] { font-size: 24px; }
+.cart-section .product .product-image img { width: 65px; }
+.cart-section .product-removal { float: right; }
+.cart-section .product-line-price { float: right; clear: left; width: auto; margin-top: 10px; font-size: 14px; }
+.cart-section .product .product-line-price:before { content: 'Item Total:'; font-size: 14px; }
+.cart-section .totals .totals-item label { width: 60%; }
+.cart-section .totals .totals-item .totals-value { width: 40%; }
+.cart-section .product-price { font-size: 14px; }
+} 
